@@ -24,3 +24,20 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+div.title {
+  display: flex;
+  justify-content: center;
+}
+
+div.card-container {
+  display: flex;
+  justify-content: space-around;
+  gap:52px
+}
+
+div.card{ 
+  display: flex;
+  width: 200px;
+  flex-direction: column;
+}
